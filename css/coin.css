@@ -9,8 +9,8 @@ h1 {
 #coin {
     position: relative;
     margin: 0 auto;
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
     cursor: pointer;
 }
 #coin div {
